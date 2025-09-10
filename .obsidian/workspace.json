@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01 - General Skills/10 - Nice netcat.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Nice netcat"
+              "title": "Welcome"
             }
           }
         ]
@@ -171,6 +171,25 @@
   },
   "active": "68754991f1f6f6a9",
   "lastOpenFiles": [
+    "README.md",
+    "Plantilla.md",
+    "picoCTF/02 - General Skills 2/10 - First Find.md",
+    "picoCTF/02 - General Skills 2/09 - Big Zip.md",
+    "picoCTF/02 - General Skills 2/08 - repetitions.md",
+    "picoCTF/02 - General Skills 2/07 - Magikarp Ground Mission.md",
+    "picoCTF/02 - General Skills 2/06 - Tab, tab, atack.md",
+    "picoCTF/02 - General Skills 2/05 - Useless.md",
+    "picoCTF/02 - General Skills 2/03 - Wave a flag.md",
+    "picoCTF/02 - General Skills 2/04 - Static ain't always noise.md",
+    "picoCTF/02 - General Skills 2/02 - Strings it.md",
+    "picoCTF/02 - General Skills 2/01 - Based.md",
+    "Convertidor_Binary_to_String.py",
+    "Convertidor_Binary_to_String.txt",
+    "New Text Document.txt",
+    "Untitled.md",
+    "picoCTF/01 - General Skills/10 - Nice netcat.md",
+    "picoCTF/02 - General Skills 2",
+    "Untitled",
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
     "picoCTF/01 - General Skills/08 - plumbing.md",
     "picoCTF/01 - General Skills/07 - What's a net cat.md",
@@ -180,11 +199,7 @@
     "picoCTF/01 - General Skills/03 - Warmed Up.md",
     "picoCTF/01 - General Skills/02 - 2Warm.md",
     "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/01 - General Skills/10 - Nice netcat.md",
-    "Plantilla.md",
     "picoCTF/Untitled.md",
-    "README.md",
-    "Untitled.md",
     "Welcome.md",
     "picoCTF/01 - General Skills",
     "picoCTF"
