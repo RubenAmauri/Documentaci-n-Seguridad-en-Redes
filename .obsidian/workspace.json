@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "picoCTF/03 - General Skills 3/10 - Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "10 - Serpentine"
             }
           }
         ]
@@ -171,8 +171,20 @@
   },
   "active": "68754991f1f6f6a9",
   "lastOpenFiles": [
-    "README.md",
+    "picoCTF/03 - General Skills 3/09 - PW Crack 3.md",
+    "picoCTF/03 - General Skills 3/08 - PW Crack 2.md",
+    "picoCTF/03 - General Skills 3/07 - PW Crack 1.md",
+    "picoCTF/03 - General Skills 3/10 - Serpentine.md",
     "Plantilla.md",
+    "picoCTF/03 - General Skills 3/06 - fixme2.py.md",
+    "picoCTF/03 - General Skills 3/05 - fixme1.py.md",
+    "picoCTF/03 - General Skills 3/04 - convertme.py.md",
+    "picoCTF/03 - General Skills 3/03 - Codebook.md",
+    "README.md",
+    "picoCTF/03 - General Skills 3/02 - runme.py.md",
+    "picoCTF/03 - General Skills 3/01 - Super SSH.md",
+    "Welcome.md",
+    "picoCTF/03 - General Skills 3",
     "picoCTF/02 - General Skills 2/10 - First Find.md",
     "picoCTF/02 - General Skills 2/09 - Big Zip.md",
     "picoCTF/02 - General Skills 2/08 - repetitions.md",
@@ -191,16 +203,6 @@
     "picoCTF/02 - General Skills 2",
     "Untitled",
     "picoCTF/01 - General Skills/09 - Glitch Cat.md",
-    "picoCTF/01 - General Skills/08 - plumbing.md",
-    "picoCTF/01 - General Skills/07 - What's a net cat.md",
-    "picoCTF/01 - General Skills/06 - Obedient Cat.md",
-    "picoCTF/01 - General Skills/05 - First Grep.md",
-    "picoCTF/01 - General Skills/04 - Bases.md",
-    "picoCTF/01 - General Skills/03 - Warmed Up.md",
-    "picoCTF/01 - General Skills/02 - 2Warm.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/Untitled.md",
-    "Welcome.md",
     "picoCTF/01 - General Skills",
     "picoCTF"
   ]
